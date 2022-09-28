@@ -1,0 +1,30 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-image: url(../../assets/backgroundLp.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.container1 {
+    background-color: $background-color;
+    width: 450px;
+    height: auto;
+}
+
+.toplogo {
+    width: 185px;
+}
+
+.txt {
+    margin: 8px 0px;
+}
+
+.footer {
+    margin-top: 30px;
+    margin-bottom: -30px;
+}
